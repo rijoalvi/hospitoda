@@ -1423,16 +1423,6 @@ Entre los servicios pueden estar. Alguna operación estética o una gastrocopía
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[21]" type="UMLUseCase" guid="0EvmWsJDsEGY8seSheo20wAA">
 <XPD:ATTR name="Name" type="string">Asignar médico a huésped &quot;opcional&quot;</XPD:ATTR>
-<XPD:ATTR name="Documentation" type="string">Datos necesarios
-Los médicos disponibles
-
-Operaciones que realiza
-Asigna un médico a un cliente
-
-Descripción
-Cuando el cliente quiere ingresar al hospital se le asigna un doctor estará a cargo del cliente.
-
-</XPD:ATTR>
 <XPD:REF name="Namespace">ozwxWkLiLU+u7NbbS4EIiQAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">MrVLIEVmaEK4YN7yMTO+/gAA</XPD:REF>

@@ -8,10 +8,10 @@
 </XPD:HEADER>
 <XPD:BODY>
 <XPD:OBJ name="DocumentElement" type="UMLProject" guid="aBNvL/Kon0SFV8jgYbPFXAAA">
-<XPD:ATTR name="Title" type="string">Proyecto de Analisis de Dominio</XPD:ATTR>
-<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Title" type="string">Hotel Hospital</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="ozwxWkLiLU+u7NbbS4EIiQAA">
-<XPD:ATTR name="Name" type="string">Hotel Hospital</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Casos de uso</XPD:ATTR>
 <XPD:REF name="Namespace">aBNvL/Kon0SFV8jgYbPFXAAA</XPD:REF>
 <XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedDiagrams[0]" type="UMLUseCaseDiagram" guid="s1ODANV/z06E/Qnz1j5rFAAA">
@@ -2121,6 +2121,18 @@ Se asigna carga de trabajo a una enfermera.
 Descripción
 Se le puede asignar a una enfermera el monitoreo de un paciente ubicado en una habitación especifica. </XPD:ATTR>
 <XPD:REF name="Namespace">ozwxWkLiLU+u7NbbS4EIiQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[1]" type="UMLModel" guid="hifGaUHoEEiOFepNxzagxwAA">
+<XPD:ATTR name="Name" type="string">Modelo conceptual estático</XPD:ATTR>
+<XPD:REF name="Namespace">aBNvL/Kon0SFV8jgYbPFXAAA</XPD:REF>
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="hRU5ZmDK6E2o4oDHnFNwyQAA">
+<XPD:ATTR name="Name" type="string">ClassDiagram1</XPD:ATTR>
+<XPD:REF name="DiagramOwner">hifGaUHoEEiOFepNxzagxwAA</XPD:REF>
+<XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="Llgql88HPU2zcwBolfRVVwAA">
+<XPD:REF name="Diagram">hRU5ZmDK6E2o4oDHnFNwyQAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>

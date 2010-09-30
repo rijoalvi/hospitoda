@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPD:PROJECT xmlns:XPD="http://www.staruml.com" version="1">
+<XPD:HEADER>
+<XPD:SUBUNITS>
+</XPD:SUBUNITS>
+<XPD:PROFILES>
+</XPD:PROFILES>
+</XPD:HEADER>
+<XPD:BODY>
+<XPD:OBJ name="DocumentElement" type="UMLProject" guid="2dAkyYfQRECoGKi5Cu91eQAA">
+<XPD:ATTR name="Title" type="string">Modelo clase Enrique</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="LXA8FjGMpUSuXmVOtHOwtgAA">
+<XPD:ATTR name="Name" type="string">Model1</XPD:ATTR>
+<XPD:REF name="Namespace">2dAkyYfQRECoGKi5Cu91eQAA</XPD:REF>
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="X54kONI8aUmo4XGvZQMbPQAA">
+<XPD:ATTR name="Name" type="string">Modelo clases</XPD:ATTR>
+<XPD:REF name="DiagramOwner">LXA8FjGMpUSuXmVOtHOwtgAA</XPD:REF>
+<XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="+xEyKrrllUCkUTEYp+Ul/gAA">
+<XPD:REF name="Diagram">X54kONI8aUmo4XGvZQMbPQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:BODY>
+</XPD:PROJECT>
